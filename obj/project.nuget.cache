@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRHbNGQdd0Ek/d18JyZOqIqlHyXF+NwkUXamwMnaNTJKZ8woMk9F74uELb29q8qxNj2XeW70G7O9BfYxJeqinQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yohan Malshika\\source\\repos\\dotnet-docker-heroku\\dotnet-docker-heroku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yohan Malshika\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
